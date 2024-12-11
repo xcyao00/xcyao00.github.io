@@ -1,14 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
 About Me
 ======
 Hello! I'm Xincheng Yao (姚欣成), a Ph.D. student at Shanghai Jiao Tong University, where I'm working under the guidance of [Prof. Chongyang Zhang](https://faculty.sjtu.edu.cn/zhangchongyang/zh_CN/index.htm). My academic interests are about **Computer Vision** and **Anomaly Detection**, with a specific focus on **Image Anomaly Detection**. Recently, my research has mainly been centered on how to design more general anomaly detection models, such as Zero/Few-shot and Class-Generalizable Anomaly Detection, and the application of large vision language models in anomaly detection tasks.
