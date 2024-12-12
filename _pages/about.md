@@ -1,3 +1,22 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+
 🧑‍🎓 About Me
 ======
 Hello! I'm Xincheng Yao (姚欣成), a Ph.D. candidate at [<u>Shanghai Jiao Tong University (SJTU)</u>](https://www.sjtu.edu.cn), where I'm working under the guidance of [<u>Prof. Chongyang Zhang</u>](https://faculty.sjtu.edu.cn/zhangchongyang/zh_CN/index.htm). 
@@ -100,4 +119,5 @@ If you find my research intriguing, please don't hesitate to contact with me by 
 
    **B.S.** in Information Engineering
 
-  
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=QltdrDBXR7cYztdXsLCBfSeruYl8EMVZ7i3zpSoGzP4&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
